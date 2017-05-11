@@ -91,7 +91,7 @@ I18N =
 
 IDS = [1911008042, 2060227356, 1552551457, 441796097, 1823859130, 1887310124, 377892327, 945229228, 1764134384, 1332486413, 2084969788, 530561711, 840365023, 167976922, 605466426, 124928852, 1611248840, 1967882391, 470057528, 1979593048]
 
-URL = "https://docs.google.com/forms/d/e/1FAIpQLSf0xvezN2rUrUsRtQI70ONyByXffIW-KzXHjp12fZFmhnvc2Q/viewform?"
+URL = "https://docs.google.com/forms/d/e/1FAIpQLScQbNBCFhprTQqMGVQ9ef1cPRcgvfqUEB4oW9zu2pud9WXrWw/viewform?"
 url=""
 update_count = ->
   $( ".connectedSortable" ).each ->
